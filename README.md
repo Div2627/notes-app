@@ -2,9 +2,7 @@
 
 > A minimal, full-stack notes application designed to capture ideas quickly and keep them organized.
 
-🌐 **Live Demo:** YOUR_LIVE_WEBSITE_URL
-
-📦 **GitHub:** YOUR_GITHUB_REPOSITORY_URL
+🌐 **Live Demo:** https://notes-app-kjob.onrender.com/
 
 ---
 
