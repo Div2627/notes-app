@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "My First Note",
+    "content": "Learning full stack development!"
+  },
+  {
+    "id": 1786987132612,
+    "title": "Test Note",
+    "content": "My first POST request!"
+  },
+  {
+    "id": 1787031827408,
+    "title": "Internship Project",
+    "content": "Building my first full-stack Notes App"
+  },
+  {
+    "id": 1787032036329,
+    "title": "Things to Learn",
+    "content": "Learn REST APIs, Git, GitHub, deployment, and improve my JavaScript skills."
+  }
+]
